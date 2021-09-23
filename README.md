@@ -1,7 +1,7 @@
 ## Hi, I’m Sherman 👋
 ### I'm a research analyst working in the capital markets industry!
  - I’m currently learning R, C++ 
- - I’m looking to collaborate on projects that would allow me to use Machine Learning and Natural Language Processing for prediction models.
+ - I’m looking to collaborate on projects for applied Machine Learning and Natural Language Processing in prediction models.
 
 ### Connect with me:
 
