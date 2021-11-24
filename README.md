@@ -1,5 +1,5 @@
 ## Hi, I’m Sherman 👋
-### I'm a research analyst working in the capital markets industry!
+### I'm a quant working in the capital markets industry!
  - I’m currently learning R, C++ 
  - I’m looking to collaborate on projects for applied Machine Learning and Natural Language Processing in prediction models.
 
